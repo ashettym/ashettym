@@ -74,6 +74,6 @@ Current Learning Goals
 Connect With Me
 
 * LinkedIn: www.linkedin.com/in/aneeshshettym
-* Email: adhettym2001@gmail.com
+* Email: ashettym2001@gmail.com
 
 ⭐ Always learning, building, and sharing projects in AI, ML, Data Science, and Analytics.
